@@ -13,7 +13,7 @@
       "outArguments": [
             { "offer": "" }
       ],
-      "url": "https://cgl5og4fm8.execute-api.us-east-2.amazonaws.com/sfmc/nbo",
+      "url": "sfmc-custom-activity-app.free.beeceptor.com/getscore",
             "body": "", 
             "header": "", 
             "format": "json",
@@ -23,7 +23,7 @@
   },
   "configurationArguments": {
     "publish": {
-      "url": "https://cgl5og4fm8.execute-api.us-east-2.amazonaws.com/sfmc/nbo",
+      "url": "sfmc-custom-activity-app.free.beeceptor.com/getscore",
             "verb": "POST",
             "body": "", 
             "useJwt": false      
